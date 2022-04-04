@@ -1,4 +1,4 @@
-lista_de_compras = ["Frango", "Arroz", "Feijão", "Pera"]
+lista_de_compras = ["Frango", "Arroz", "Feijão", "Pera", "Abacaxi"]
 print(lista_de_compras)
 
 lista_de_compras.insert(0, input("digite o Alimento: "))
